@@ -16,6 +16,14 @@ h2{
 }
 
 
+h3{
+    font-size: 2em;
+    margin:0.5em auto;
+}
+
+
+
+
 img{
     max-width: 90%;
     display:block;
@@ -30,6 +38,7 @@ img{
     flex-direction: column;
     padding:1em; 
     box-shadow: 5px 5px 45px 5px #000000;
+    border-radius: 5px;
     margin: 3em auto;
 }
 
@@ -37,4 +46,27 @@ img{
 .img-container-card{
     display:flex;
     width:100%;
+}
+
+
+.contaianer-text-card{
+    width:90%; 
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding:1em; 
+}
+
+.container-header-card{
+    text-align: center;
+    margin: auto;
+    width:90%;
+}
+
+
+.container-p-card{
+    text-align: center;
+    margin: auto;
+    width:90%;
 }
