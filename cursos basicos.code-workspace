@@ -1,0 +1,140 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\web personal\\documentacion\\web personal"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\angular\\spa"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\angular\\spotiapp"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\angular\\authapp"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\angular\\LoginApp"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\angular\\formularios"
+		},
+		{
+			"path": "..\\..\\..\\..\\pruebas\\test"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\angular\\heroesapp"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\angular\\firechat"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\github"
+		},
+		{
+			"path": "c:\\MAMP\\htdocs\\carpeta-del-curso\\tu-proyecto"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\angular\\peliculasapp"
+		},
+		{
+			"path": "..\\..\\..\\..\\web esposa\\documentacion\\mutuelcazador"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\angular\\mapas"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\angular\\youtubeApp"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\githubpractica"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\angular\\graficos"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\angular\\gameyear\\goty"
+		},
+		{
+			"path": "..\\..\\..\\crehana\\git"
+		},
+		{
+			"path": "c:\\MAMP\\htdocs\\bitacora"
+		},
+		{
+			"path": "..\\..\\..\\crehana\\proyectoGitCrehana"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\nodejs\\webserver"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\nodejs\\restserver"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\nodejs\\nodecafe"
+		},
+		{
+			"path": "..\\..\\..\\crehana\\appmenu"
+		},
+		{
+			"path": "c:\\xampp\\htdocs\\cursophp\\mysql"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\nodejs\\appgoogle"
+		},
+		{
+			"path": "c:\\xampp\\htdocs\\cursophp\\registro"
+		},
+		{
+			"path": "c:\\xampp\\htdocs\\cursophp\\galeria"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\nodejs\\websocket"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\nodejs\\socket-colas"
+		},
+		{
+			"path": "..\\..\\..\\java\\practicas2"
+		},
+		{
+			"path": "c:\\xampp\\htdocs\\cursophp\\blog"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\nodejs\\socketchatfinal"
+		},
+		{
+			"path": "..\\practicas layout"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\nodejs\\typescript-restserver"
+		},
+		{
+			"path": "c:\\xampp\\htdocs\\cursophp\\ajax"
+		},
+		{
+			"path": "..\\unidad 3"
+		},
+		{
+			"path": "..\\..\\..\\udemy\\nodejs\\socket-chatolder"
+		},
+		{
+			"path": "c:\\xampp\\htdocs\\phpc\\parte1"
+		},
+		{
+			"path": "..\\..\\..\\..\\algoritmos"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"mocha.subdirectory": "C:\\G:\\PAGINAS DISEÑO WEB\\javascritp curso\\udemy\\javascriptmoderno\\webpack",
+		"eslint.enable": false,
+		"jshint.enable": false,
+		"standard.enable": false,
+		"tslint.enable": false,
+		"jscs.enable": false,
+		"liveServer.settings.multiRootWorkspaceName": "plantillaweb",
+		"git.ignoreLimitWarning": true
+	}
+}
