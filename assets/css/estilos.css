@@ -1,7 +1,40 @@
 @charset "UTF-8";
 
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    font-size: 5em;
+    margin: 1em auto;
+}
+
+
+h2{
+    font-size: 3em;
+    margin-bottom:1em;
+}
 
 
 img{
     max-width: 90%;
+    display:block;
+    margin:auto;
+}
+
+.card-box-container{
+    width:80%; 
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding:1em; 
+    box-shadow: 5px 5px 45px 5px #000000;
+    margin: 3em auto;
+}
+
+
+.img-container-card{
+    display:flex;
+    width:100%;
 }
