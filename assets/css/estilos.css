@@ -1,7 +1,15 @@
 @charset "UTF-8";
 
+:root {
+    --widthbasic: 90%;
+}
+
 body{
     font-family: 'Open Sans', sans-serif;
+}
+
+.title{
+    text-align: center;
 }
 
 h1{
@@ -25,7 +33,7 @@ h3{
 
 
 img{
-    max-width: 90%;
+    max-width: var(--widthbasic);
     display:block;
     margin:auto;
 }
@@ -50,7 +58,7 @@ img{
 
 
 .contaianer-text-card{
-    width:90%; 
+    width:var(--widthbasic); 
     display:flex;
     justify-content: center;
     align-items: center;
@@ -58,15 +66,115 @@ img{
     padding:1em; 
 }
 
-.container-header-card{
+.container-header-card, .lorem,.container-p-card {
     text-align: center;
     margin: auto;
-    width:90%;
+    width:var(--widthbasic);
+}
+
+.lorem{
+    margin-top: 0.5em;
 }
 
 
-.container-p-card{
-    text-align: center;
-    margin: auto;
-    width:90%;
+
+@media(min-width:769px) and (max-width:1024px)
+{
+    h1{
+        font-size: 4.5em;
+        margin: 1em auto;
+    }
+
+    h2{
+        font-size: 2.5em;
+        margin-bottom:1em;
+    }
+
+
+    h3{
+        font-size: 1.5em;
+        margin:0.5em auto;
+    }
+}
+
+
+@media(min-width:569px) and (max-width:768px)
+{
+    h1{
+        font-size: 4em;
+        margin: 1em auto;
+    }
+
+    h2{
+        font-size: 2em;
+        margin-bottom:1em;
+    }
+
+
+    h3{
+        font-size: 1.3em;
+        margin:0.5em auto;
+    }
+}
+
+
+
+@media(min-width:469px) and (max-width:568px)
+{
+    h1{
+        font-size: 3em;
+        margin: 1em auto;
+    }
+
+    h2{
+        font-size: 1.5em;
+        margin-bottom:1em;
+    }
+
+
+    h3{
+        font-size: 1.2em;
+        margin:0.5em auto;
+    }
+}
+
+
+
+@media(min-width:321px) and (max-width:468px)
+{
+    h1{
+        font-size: 2em;
+        margin: 1em auto;
+    }
+
+    h2{
+        font-size: 1.5em;
+        margin-bottom:1em;
+    }
+
+
+    h3{
+        font-size: 1.2em;
+        margin:0.5em auto;
+    }
+}
+
+
+@media(max-width:320px)
+{
+    h1{
+        font-size: 2em;
+        margin: 1em auto;
+    }
+
+    h2{
+        font-size: 1.5em;
+        margin-bottom:1em;
+    }
+
+
+    h3{
+        font-size: 1.2em;
+        margin:0.5em auto;
+    }
 }
